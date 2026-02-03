@@ -1,0 +1,15 @@
+# Solution Source (Hidden for Workshop)
+src/
+
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Data & Database
+data/chroma_db/
+chroma_db/
+
+# VS Code
+.vscode/
