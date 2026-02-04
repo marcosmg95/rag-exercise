@@ -1,6 +1,10 @@
 # Solution Source (Hidden for Workshop)
-src/
-
+src/core
+src/database
+src/evaluation
+src/generation
+src/retrieval
+src/main.py
 # Environment
 .env
 .venv/
