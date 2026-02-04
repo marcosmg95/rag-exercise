@@ -1,0 +1,1 @@
+from database.vector_store import setup_vector_db as setup_vector_db
