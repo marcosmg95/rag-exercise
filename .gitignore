@@ -8,5 +8,3 @@ __pycache__/
 data/chroma_db/
 chroma_db/
 
-# VS Code
-.vscode/
